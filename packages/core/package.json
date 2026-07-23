@@ -1,0 +1,8 @@
+{
+  "name": "@supabase-to-aws/core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "exports": { ".": "./src/model.mjs", "./schema-state": "./src/schema-state.mjs" }
+}
